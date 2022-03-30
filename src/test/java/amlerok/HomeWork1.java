@@ -23,7 +23,6 @@ public class HomeWork1 {
         browserSize=("1920x1080");
     }
 
-
     @BeforeEach
     void precondition() {
         open("https://go.mail.ru/");
